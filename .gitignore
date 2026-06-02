@@ -1,0 +1,25 @@
+# Compiled Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+target/
+bin/
+out/
+build/
+
+# Logs
+*.log
