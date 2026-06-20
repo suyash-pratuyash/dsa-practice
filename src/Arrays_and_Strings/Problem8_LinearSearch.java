@@ -1,4 +1,4 @@
-package arrays;// Problem 8: Linear Search
+package Arrays_and_Strings;// Problem 8: Linear Search
 // Striver A2Z Sheet - Step 3.1 | Day 3
 // Time: O(n) | Space: O(1)
 

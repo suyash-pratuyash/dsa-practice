@@ -1,4 +1,4 @@
-package arrays;
+package Arrays_and_Strings;
 
 /**
  * LeetCode Problem 26: Remove Duplicates from Sorted Array

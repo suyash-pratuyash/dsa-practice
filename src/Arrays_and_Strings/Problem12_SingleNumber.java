@@ -1,4 +1,4 @@
-package arrays;
+package Arrays_and_Strings;
 
 public class Problem12_SingleNumber {
     public static int singleNumber(int[] nums) {

@@ -1,4 +1,4 @@
-package arrays;// Problem 5: Right Rotate Array by K Places
+package Arrays_and_Strings;// Problem 5: Right Rotate Array by K Places
 // Striver A2Z Sheet - Step 3.1 | Day 2 | LeetCode 189
 // Time: O(n) | Space: O(k)
 

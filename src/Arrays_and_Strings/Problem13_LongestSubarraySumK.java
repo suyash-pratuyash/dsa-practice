@@ -1,4 +1,4 @@
-package arrays;
+package Arrays_and_Strings;
 
 public class Problem13_LongestSubarraySumK {
     public static int longestSubarray(int[] nums, int k) {

@@ -1,4 +1,4 @@
-package arrays;// Problem 7: Move Zeroes to End
+package Arrays_and_Strings;// Problem 7: Move Zeroes to End
 // Striver A2Z Sheet - Step 3.1 | Day 3 | LeetCode 283
 // Time: O(n) | Space: O(1)
 

@@ -1,4 +1,4 @@
-package arrays;// Problem 3: Remove Duplicates from Sorted Array
+package Arrays_and_Strings;// Problem 3: Remove Duplicates from Sorted Array
 // Striver A2Z Sheet - Step 3.1 | Day 1 | LeetCode 26
 // Time: O(n) | Space: O(1)
 

@@ -1,4 +1,4 @@
-package arrays;
+package Arrays_and_Strings;
 // Problem 1: Find the Largest Element in an Array
 // Striver A2Z Sheet - Step 3.1 | Day 1
 // Time: O(n) | Space: O(1)

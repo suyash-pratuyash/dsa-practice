@@ -1,4 +1,4 @@
-package arrays;// Problem 4: Left Rotate an Array by One Place
+package Arrays_and_Strings;// Problem 4: Left Rotate an Array by One Place
 // Striver A2Z Sheet - Step 3.1 | Day 2
 // Time: O(n) | Space: O(1)
 

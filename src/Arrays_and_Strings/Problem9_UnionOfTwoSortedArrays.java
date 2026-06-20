@@ -1,4 +1,4 @@
-package arrays;// Problem 9: Union of Two Sorted Arrays
+package Arrays_and_Strings;// Problem 9: Union of Two Sorted Arrays
 // Striver A2Z Sheet - Step 3.1 | Day 3
 // Time: O(n+m) | Space: O(n+m)
 

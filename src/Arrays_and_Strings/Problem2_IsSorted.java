@@ -1,4 +1,4 @@
-package arrays;// Problem 2: Check if Array is Sorted
+package Arrays_and_Strings;// Problem 2: Check if Array is Sorted
 // Striver A2Z Sheet - Step 3.1 | Day 1
 // Time: O(n) | Space: O(1)
 

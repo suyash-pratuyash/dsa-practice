@@ -1,4 +1,4 @@
-package arrays;
+package Arrays_and_Strings;
 
 /**
  * Day 1 - DSA Problem 2
