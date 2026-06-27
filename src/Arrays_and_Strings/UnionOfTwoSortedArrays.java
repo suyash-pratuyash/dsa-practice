@@ -4,7 +4,7 @@ package Arrays_and_Strings;// Problem 9: Union of Two Sorted Arrays
 
 import java.util.*;
 
-public class Problem9_UnionOfTwoSortedArrays {
+public class UnionOfTwoSortedArrays {
     public static List<Integer> findUnion(int[] arr1, int[] arr2, int n, int m) {
         List<Integer> union = new ArrayList<>();
         int i = 0, j = 0;

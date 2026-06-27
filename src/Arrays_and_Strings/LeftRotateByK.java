@@ -4,7 +4,7 @@ package Arrays_and_Strings;// Problem 6: Left Rotate Array by K Places
 
 import java.util.Arrays;
 
-public class Problem6_LeftRotateByK {
+public class LeftRotateByK {
     public static void rotateLeft(int[] arr, int k) {
         int n = arr.length;
         k = k % n;  // handles k >= n (e.g. k=7 on size 5 = same as k=2)

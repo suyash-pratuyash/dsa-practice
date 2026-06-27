@@ -4,7 +4,7 @@ package Arrays_and_Strings;// Problem 7: Move Zeroes to End
 
 import java.util.Arrays;
 
-public class Problem7_MoveZeroes {
+public class MoveZeroes {
     public static void moveZeroes(int[] nums) {
         int i = 0; // slow pointer - tracks next non-zero position
         for (int j = 0; j < nums.length; j++) {

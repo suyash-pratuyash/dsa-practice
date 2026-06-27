@@ -1,6 +1,6 @@
 package Arrays_and_Strings;
 
-public class Problem13_LongestSubarraySumK {
+public class LongestSubarraySumK {
     public static int longestSubarray(int[] nums, int k) {
         int n = nums.length;
         int maxlen = 0;

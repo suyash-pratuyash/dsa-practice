@@ -4,7 +4,7 @@ package Arrays_and_Strings;// Problem 4: Left Rotate an Array by One Place
 
 import java.util.Arrays;
 
-public class Problem4_LeftRotateByOne {
+public class LeftRotateByOne {
     public static void rotateByOne(int[] arr) {
         int n = arr.length;
 

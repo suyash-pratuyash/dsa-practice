@@ -2,7 +2,7 @@ package Arrays_and_Strings;// Problem 3: Remove Duplicates from Sorted Array
 // Striver A2Z Sheet - Step 3.1 | Day 1 | LeetCode 26
 // Time: O(n) | Space: O(1)
 
-public class Problem3_RemoveDuplicates {
+public class RemoveDuplicates {
     public static int removeDuplicates(int[] arr) {
         int j = 0; // slow pointer - tracks last unique element position
         for (int i = 1; i < arr.length; i++) {

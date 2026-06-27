@@ -2,7 +2,7 @@ package Arrays_and_Strings;// Problem 8: Linear Search
 // Striver A2Z Sheet - Step 3.1 | Day 3
 // Time: O(n) | Space: O(1)
 
-public class Problem8_LinearSearch {
+public class LinearSearch {
     public static int linearSearch(int[] arr, int target) {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == target) {

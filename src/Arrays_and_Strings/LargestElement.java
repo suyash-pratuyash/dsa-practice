@@ -3,7 +3,7 @@ package Arrays_and_Strings;
 // Striver A2Z Sheet - Step 3.1 | Day 1
 // Time: O(n) | Space: O(1)
 
-public class Problem1_LargestElement {
+public class LargestElement {
     public static int findLargest(int[] arr) {
         int max = arr[0]; // start with first element (handles negatives correctly)
         for (int i = 1; i < arr.length; i++) {

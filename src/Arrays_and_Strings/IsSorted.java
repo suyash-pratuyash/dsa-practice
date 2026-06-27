@@ -2,7 +2,7 @@ package Arrays_and_Strings;// Problem 2: Check if Array is Sorted
 // Striver A2Z Sheet - Step 3.1 | Day 1
 // Time: O(n) | Space: O(1)
 
-public class Problem2_IsSorted {
+public class IsSorted {
     public static boolean isSorted(int[] arr) {
         for (int i = 1; i < arr.length; i++) {
             if (arr[i - 1] > arr[i]) { // found a violation
