@@ -8,7 +8,7 @@ import java.util.Arrays;
 // Given an array of integers nums and an integer target, return indices of the
 // two numbers such that they add up to target.
 
-class Solu {
+public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> numMap = new HashMap<>();
         int n = nums.length;
@@ -26,11 +26,9 @@ class Solu {
 
         return new int[]{};
     }
-}
 
-public class TwoSum {
     public static void main(String[] args) {
-        Solu solution = new Solu();
+        TwoSum solution = new TwoSum();
 
         // Test Case 1
         // Input: nums = [2, 7, 11, 15], target = 9
