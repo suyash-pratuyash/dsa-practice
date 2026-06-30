@@ -1,6 +1,6 @@
 package Arrays_and_Strings;
 
-gti /**
+/**
  * LeetCode Problem: Container With Most Water
  * 
  * You are given an integer array height of length n. There are n vertical lines 
